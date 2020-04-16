@@ -1,0 +1,5 @@
+export const SET_LIST = 'SET_LIST'
+export const SET_DETAIL = 'SET_DETAIL'
+export const SET_ITEM = 'SET_ITEM'
+export const SET_DETAIL_VISIBILITY = 'SET_DETAIL_VISIBILITY'
+export const SET_ITEM_VISIBILITY = 'SET_ITEM_VISIBILITY'

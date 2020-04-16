@@ -1,0 +1,1 @@
+export const SET_MODAL_USER = 'SET_MODAL_USER'

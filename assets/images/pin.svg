@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="41px" viewBox="0 0 29 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="12.120643%" x2="50%" y2="83.4585337%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-30.0%" y="-23.1%" width="160.0%" height="146.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <circle id="path-3" cx="7" cy="7" r="7"></circle>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Event-/-Detail-/-Cover-+-Map" transform="translate(-332.000000, -61.000000)">
+            <g id="Map">
+                <g transform="translate(180.000000, 0.000000)">
+                    <g id="Misc.-/-Map-/-Pin" transform="translate(152.000000, 61.000000)">
+                        <path d="M25.5638087,15.943662 C27.0036675,13.2133529 24.7621951,11 20.5573399,11 C16.3524848,11 11.77654,13.2133529 10.3366812,15.943662 C8.89682239,18.6739711 11.1382948,20.8873239 15.34315,20.8873239 C19.5480051,20.8873239 24.1239499,18.6739711 25.5638087,15.943662 Z M16.1891015,20.8873239 L7.69190306,37 L6,37 L14.4971984,20.8873239 L16.1891015,20.8873239 Z" id="Shadow" fill="url(#linearGradient-1)" filter="url(#filter-2)"></path>
+                        <ellipse id="Hole" fill="#000000" cx="7" cy="36" rx="2" ry="1"></ellipse>
+                        <rect id="Pole" fill="#AAACAF" x="6" y="13" width="2" height="23"></rect>
+                        <g id="Ball" stroke-width="1">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Mask" fill="#000000" xlink:href="#path-3"></use>
+                            <g id="Colors-/-Food" mask="url(#mask-4)" fill="#7F00EC">
+                                <rect id="Color" x="0" y="0" width="14" height="14"></rect>
+                            </g>
+                            <circle id="Shine" fill="#FFFFFF" mask="url(#mask-4)" cx="5.5" cy="4.5" r="1.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

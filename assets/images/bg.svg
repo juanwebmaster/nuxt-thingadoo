@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="271px" height="171px" viewBox="0 0 271 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Web-App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.728194963">
+        <g id="App-/-Home" transform="translate(-10.000000, -8.000000)" stroke-width="2">
+            <g id="Navigation">
+                <g id="Header">
+                    <g id="Group" transform="translate(11.036667, 1.000000)">
+                        <path d="M9.44123893,26.634858 C4.25033069,26.634858 0.0425578406,22.4705425 0.0425578406,17.3343995 C0.0425578406,12.1971024 4.25033069,8.03278689 9.44123893,8.03278689 C14.6309809,8.03278689 18.8387538,12.1971024 18.8387538,17.3343995 C18.8387538,22.4705425 14.6309809,26.634858 9.44123893,26.634858 Z" id="Imported-Layers-Copy-14" stroke="#00E38E"></path>
+                        <path d="M263.410433,104.323 C260.343078,104.323 257.856667,101.788199 257.856667,98.6618512 C257.856667,95.5348007 260.343078,93 263.410433,93 C266.477098,93 268.96351,95.5348007 268.96351,98.6618512 C268.96351,101.788199 266.477098,104.323 263.410433,104.323 Z" id="Imported-Layers-Copy-12" stroke="#B17ED6" opacity="0.649999976"></path>
+                        <polyline id="Imported-Layers-Copy-9" stroke="#FFFFFF" opacity="0.450384795" stroke-linecap="round" points="76.2533333 176.575334 76.2533333 165.148117 87.9613148 165.148117 87.9613148 154 99.0681279 154"></polyline>
+                        <polyline id="Imported-Layers-Copy-19" stroke="#00FFFC" stroke-linecap="round" points="222.74 43.4973598 222.74 35.146701 231.295833 35.146701 231.295833 27 239.41235 27"></polyline>
+                        <path d="M212.941732,153.319429 C213.047489,153.495847 212.925114,153.723785 212.724177,153.723785 L183.866322,153.723785 C183.662364,153.723785 183.539989,153.488041 183.653299,153.311622 L198.546798,130.118102 C198.649533,129.957296 198.879175,129.96198 198.977377,130.124347 L212.941732,153.319429 Z" id="Imported-Layers-Copy-18" stroke="#00E38E"></path>
+                        <path d="M84.157667,20.0765027 L84.157667,31.1439249 M89.7110024,25.6102138 L78.6043316,25.6102138" id="Imported-Layers-Copy-15" stroke="#B17ED6" opacity="0.965531693" stroke-linecap="round"></path>
+                        <path d="M18.3704259,125 L18.3704259,135.616536 M23.6975185,130.308268 L13.0433333,130.308268" id="Imported-Layers-Copy-16" stroke="#FFE798" opacity="0.787430037" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

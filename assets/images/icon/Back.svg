@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Icon / Back</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-/-Back" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <path d="M23,11 L3.0505,11 L10.6895,3.724 C11.0895,3.343 11.105,2.71 10.724,2.31 C10.3435,1.9105 9.7105,1.8945 9.31,2.2755 L0.586,10.5855 C0.2085,10.9635 0,11.4655 0,12 C0,12.534 0.2085,13.0365 0.6035,13.431 L9.3105,21.724 C9.504,21.9085 9.752,22 10,22 C10.264,22 10.528,21.896 10.7245,21.6895 C11.1055,21.2895 11.09,20.657 10.69,20.276 L3.019,13 L23,13 C23.552,13 24,12.552 24,12 C24,11.448 23.552,11 23,11 L23,11 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

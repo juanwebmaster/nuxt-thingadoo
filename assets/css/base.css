@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap');
+html,
+body {
+  @apply bg-dark-90;
+  color: rgba(255,255,255,0.5);
+}

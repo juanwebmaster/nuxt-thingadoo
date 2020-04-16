@@ -1,0 +1,51 @@
+
+h1 {
+color: rgba(255, 255, 255, 1);
+font-size: xx-large;
+margin-bottom: 1em;
+}
+
+h3 {
+color:rgba(34,172,111,1);
+font-size: x-large;
+margin-bottom: 0.3em;
+font-weight: 500;
+}
+
+ul {
+margin-left: 1em;
+list-style-type: circle;
+margin-bottom: 0.75em;
+}
+
+p {
+font-size: larger;
+margin-bottom: 1em;
+}
+
+b {
+color: rgba(255, 255, 255, 0.8);
+}
+
+label {
+display: block;
+font-size: x-large;
+margin-bottom: 0.3em;
+}
+
+.form-input {
+width: 90%;
+font-size: x-large;
+margin-bottom: 1em;
+padding: 0.5em;
+color: rgba(0, 0, 0, 1);
+}
+
+.large-input {
+height: 6em;
+}
+
+button {
+display: block;
+margin-top: 1em;
+}
